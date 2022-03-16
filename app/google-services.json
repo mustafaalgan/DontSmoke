@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087786549753",
+    "project_id": "dontsmoke-68c8c",
+    "storage_bucket": "dontsmoke-68c8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087786549753:android:faa785449a151f9b717d28",
+        "android_client_info": {
+          "package_name": "com.example.dontsmoke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087786549753-kkdi676nma691s3id4insppbs6hqsg37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHAWdD3VTmaNI3WZIU7xonTzjwqJjQWbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087786549753-kkdi676nma691s3id4insppbs6hqsg37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

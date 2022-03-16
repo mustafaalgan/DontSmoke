@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Don\'t Smoke</string>
+    <string name="change_txt">Değiştir</string>
+    <string name="close_txt">Vazgeç</string>
+    <string name="uyandiktan_sonra">UYANDIKTAN SONRA</string>
+    <string name="gun">GÜN İÇİ</string>
+    <string name="uyumadan_nce">UYUMADAN ÖNCE</string>
+    <string name="yemek_disi">YEMEK DIŞI</string>
+    <string name="kahvalti">KAHVALTI</string>
+    <string name="sifre">Şifre</string>
+    <string name="telefon">Telefon</string>
+    <string name="kayit_ol">Kayıt Ol</string>
+    <string name="zaten_bir_hesabin_var_mi">Zaten bir hesabın var mı?</string>
+    <string name="giris_yap">Giriş Yap</string>
+    <string name="don_t_smoke_app">Dont Smoke App</string>
+    <string name="ad_soyad">Ad - Soyad</string>
+    <string name="email">Email</string>
+    <string name="yeni_hesap">Yeni Hesap</string>
+    <string name="resetPassword">Parolanızı mı unuttunuz?</string>
+    <string name="kaydet">Kaydet</string>
+    <string name="cikis_yap">Çıkış Yap</string>
+    <string name="sifre_degisttirme">Şifre Değiştirme</string>
+    <string name="profil_duzenle">Profil Düzenle</string>
+    <string name="guncelle">Güncelle</string>
+    <string name="sigara_markaniz">Sigara Markanız</string>
+    <string name="sigara">Sigara</string>
+    <string name="sigara_ictim">Sigara İçtim</string>
+    <string name="veri_girisi">Veri Girişi</string>
+    <string name="profil_girisi">Profil Girişi</string>
+    <string name="delete">Delete</string>
+    <string name="drink">Drink</string>
+    <string name="date">Date</string>
+    <string name="food">Food</string>
+    <string name="status">Status</string>
+    <string name="sleep">Sleep</string>
+    <string name="uyumadan_once">UYUMADAN ÖNCE</string>
+    <string name="gunn_ici">GÜN İÇİ</string>
+     <string name="sigara_icme_durum_formu">Sigara İçme Durum Formu</string>
+      <string name="kahve">KAHVE</string>
+    <string name="cay">ÇAY</string>
+    <string name="icecek_yok">İÇECEK YOK</string>
+    <string name="ogle_yemegi">ÖĞLE YEMEĞİ</string>
+    <string name="aksam_yemegi">AKŞAM YEMEĞİ</string>
+    <string name="onces">ÖNCESİ</string>
+    <string name="sonrasi">SONRASI</string>
+    <string name="diger">DİĞER</string>
+    <string name="gonder">Gönder</string>
+
+
+</resources>
